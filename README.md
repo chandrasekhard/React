@@ -1,1 +1,1 @@
-# krishna-react
+# Chandra-react
